@@ -13,5 +13,8 @@ public class ProjectAnimals {
 		System.out.println("longest neck");
 
 	}
+	private void lion() {
+		System.out.println("king");
+	}
 
 }
